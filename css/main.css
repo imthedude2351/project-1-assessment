@@ -1,0 +1,8 @@
+body {
+    text-align: center;
+}
+
+button:hover {
+    background-color: white;
+    color: gray;
+}
